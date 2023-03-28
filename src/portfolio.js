@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kevin's Portfolio",
   description:
-    "An self-starting, hard-working engineer with 5 years of experience, looking to enter the software engineering field.",
+    "A self-starting, hard-working engineer with 5 years of experience, looking to enter the software engineering field.",
   og: {
     title: "Kevin Riemer Portfolio",
     type: "website",
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "KevinRiemer",
   nickname: "khriemer2596",
   subTitle:
-    "An self-starting, hard-working engineer with 5 years of experience, looking to enter the software engineering field.",
+    "A self-starting, hard-working engineer with 5 years of experience, looking to enter the software engineering field.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/13w2zlLr7YX0AT0hcK8oagu_FkpNKvh0S/view?usp=share_link",
   portfolio_repository: "https://github.com/khriemer2596/PortfolioWebsite",
   githubProfile: "https://github.com/khriemer2596",
 };
